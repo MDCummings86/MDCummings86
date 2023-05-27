@@ -13,8 +13,9 @@ Michael Cummings--@MDCummings86
 - ⚡ I also play the violin. I record violin, write and produce lofi beats as Cuppa Beats. I write music that is easy to listen to while you are being productive. 
 
 Cuppa Beats Music
-YouTube: https://studio.youtube.com/channel/UCHd-H6kGZ2AaqmUu6tJDtNQ?c=UCHd-H6kGZ2AaqmUu6tJDtNQ
-Instagram: https://www.instagram.com/cuppa_beats/
+
+- YouTube: https://studio.youtube.com/channel/UCHd-H6kGZ2AaqmUu6tJDtNQ?c=UCHd-H6kGZ2AaqmUu6tJDtNQ
+- Instagram: https://www.instagram.com/cuppa_beats/
 
 
 -->
