@@ -1,4 +1,4 @@
-<img src="/Users/mdcummings/Desktop/Job Search/Github Banner.jpg" alt="Michael Cummings" width="300" />
+<img src="Github Banner.jpg" alt="Michael Cummings" />
 
 -	Certification in Data Analytics from UNCC by September 2023
 -	Proficiency in Python, SQL, Excel, VBA, Tableau, JavaScript, HTML/CSS, Machine Learning (Unsupervised, Supervised, Deep, and Machine), Big Data
